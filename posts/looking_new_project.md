@@ -10,7 +10,7 @@ Last year, I have been working as the only developer in a few projects and got t
 ### What am I looking for?
 
 A project to work part time. I'm currently working for a client and takes me around 70 hours a month, so I have another 70-90 hours available.
-This project can be a paid project but not only. Open source to contribute or people with a good idea but not software development knowledge looking for someone to build a MVP, are also welcome.
+It can be a paid project but not only. Open source to contribute or people with a good idea but not software development knowledge looking for someone to build a MVP, are also welcome.
 
 This is my nice to have list:
 
