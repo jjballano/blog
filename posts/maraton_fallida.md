@@ -15,7 +15,7 @@ Estos problemas no lo serían tanto si fuesen un par de semanas de vacaciones, y
 - Alimentación:
 Nunca pensé que la alimentación fuese realmente tan importante a la hora de correr como lo he visto en este tiempo. Yo estaba acostumbrado a mis rutinas y mi cuerpo estaba acostumbrado a mis hábitos alimentarios, sabía lo que me sentaba mejor y lo que no tanto. Sabía que en el supermercado tenía la mayoría de los ingredientes que necesitaba para comer lo que consideraba "comida sana". Incluso me podía permitir el lujo de mirar alguna dieta por alguna web de confianza para ese par de semanas antes de la carrera y seguirla más o menos a rajatabla.
 Todo cambia cuando cada semana estás en un sitio distinto y cada mes cambias de pais. Es posible que si te mueves por Europa no tengas problemas, al final nuestra alimentación no es tan distinta en líneas generales y tenemos ciertas leyes europeas relativas a los alimentos. Por Asia no tienes nada de eso.
-Como a veces estábamos en sitios sin cocina, tampoco podíamos comprar comida para cocinarla nosotros y teníamos que ir a restaurantes o puestos callejeros contínuamente.
+Como a veces estábamos en sitios sin cocina, tampoco podíamos comprar comida para cocinarla nosotros y teníamos que ir a restaurantes o puestos callejeros continuamente.
 Además, parte del encanto de visitar un sitio, es probar su gastronomía y no vas a estar comiendo todos los días en casa lo mismo que comerías en España (si tienes suerte de encontrar los ingredientes).
 
 
@@ -27,7 +27,7 @@ Derivado del punto de alimentación viene el de problemas intestinales. Supongo 
 En mi vida había corrido principalmente por Madrid y Dublin. Ambas grandes ciudades y con un tráfico de personas y vehículos más o menos grandes. Nada que ver con ciudades principales de Vietnam, China o Tailandia. Y ninguno de estos a su vez tiene nada que ver con ciudades principales de India, el caos absoluto.
 Hay sitios donde era difícil dar un paseo por la cantidad de personas, coches y motos o por no haber aceras. Cruzar una calle por Ho Chi Minh City era todo un reto y esquivar personas en China no siempre era fácil. Y como decía, India por encima de todos ellos. En Delhi es incómodo muchas veces incluso ir a comprar a la tienda que está a 50 metros de tu alojamiento, así que imagina intentar hacer 10 kms corriendo. 
 Además, está el hecho de que queríamos tener el alojamiento cerca de las cosas interesantes que ver, que normalmente están en el centro y es donde estos problemas son mayores.
-En muchos sitios, el peatón es el "último mono" dentro de la ciudad, así que a veces se hacía peligroso cruzar calles, correr por el borde de la carretera (como digo, muchas veces no había arcenes) o correr por calles peatonales por donde pasan muchas motos (sí, ocurre muy amenudo). Ni siquiera en las aceras a veces estabas seguro de que no se te cruzara una moto que iba a aparcar.
+En muchos sitios, el peatón es el "último mono" dentro de la ciudad, así que a veces se hacía peligroso cruzar calles, correr por el borde de la carretera (como digo, muchas veces no había arcenes) o correr por calles peatonales por donde pasan muchas motos (sí, ocurre muy a menudo). Ni siquiera en las aceras a veces estabas seguro de que no se te cruzara una moto que iba a aparcar.
 Recuerdo una anécdota en el primer alojamiento a las afueras de Ho Chi Minh City. Salí una mañana a correr y vi mucha moto, incluso más de lo habitual. Seguí, llegué a un puente y cuando me di cuenta estaba metido en un embotellamiento de motos. Incluso por la acera estaba el atasco. La gente que iba andando se subió al borde del puente (debajo había un río a una altura de unos 10 metros) para poder avanzar, ya que no había sitio entre las motos para pasar. Como yo no quería morir, sólo me quedó ponerme entre 2 motos y avanzar a su ritmo. Total: 15 minutos para unos 50 metros de puente.
 Es decir, correr ha sido muy incómodo en muchos sitios, por lo que salir a entrenar se hacía muy cuesta arriba.
 
@@ -47,6 +47,6 @@ Suelo ir cada cierto tiempo al fisio para que me quite contracturas de la espald
 
 
 La unión de todo eso, junto con el golpe de realidad de la media maratón de Borneo, hizo que me plantease mucho mi intención de correr la maratón. Cuando en las medias que había hecho anteriormente estaba entre 1:40 y 1:45, ésta la hice en 2:02 y sufriendo mucho en los últimos 7kms. Mi objetivo principal era disfrutar de correr una maratón y así no lo iba a conseguir, así que abandoné la idea y me dediqué a salir a correr unos pocos kms a la semana sin ningún control o rutina, simplemente cuando apetecía y el tiempo que fuera. 
-Aún así, correr en tantos sitios distintos (8 paises y no se cuantas ciudades en 8 meses) ha sido muy divertido. Pero eso lo escribiré en un post aparte. 
+Aún así, correr en tantos sitios distintos (8 países y no se cuantas ciudades en 8 meses) ha sido muy divertido. Pero eso lo escribiré en un post aparte. 
 
 Por suerte ya he tenido tiempo de quitarme esa espina clavada y terminar mi primera maratón después de volver a España hace poco en Sevilla, de lo cual también crearé una entrada en algún momento.
