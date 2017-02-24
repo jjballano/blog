@@ -5,6 +5,6 @@ I will try to write them in English, but some could be in Spanish, depending on 
 
 List of posts:
 
-* [Maratón + nómada = desastre](posts/maraton_fallida.md)
+* [Maratón + nómada = desastre](posts/maraton_fallida.md) (Spanish)
 * [Looking new project](posts/looking_new_project.md)
 
