@@ -5,6 +5,7 @@ I will try to write them in English, but some could be in Spanish, depending on 
 
 List of posts:
 
+* [Script to create a backup of the database to S3 in a Rails project](posts/script_db_backup.md)
 * [Maratón + nómada = desastre](posts/maraton_fallida.md) (Spanish)
 * [Looking new project](posts/looking_new_project.md)
 
