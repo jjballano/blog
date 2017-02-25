@@ -1,0 +1,1 @@
+These are posts with some work left to be done or just ideas I want to write about and don't want to forget
