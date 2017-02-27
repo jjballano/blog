@@ -8,5 +8,5 @@ List of posts:
 * [Docker + Postgres](posts/postgres_docker.md)
 * [Script to create a backup of the database to S3 in a Rails project](posts/script_db_backup.md)
 * [Maratón + nómada = desastre](posts/maraton_fallida.md) (Spanish)
-* [Looking new project](posts/looking_new_project.md)
+* [Looking for new project](posts/looking_new_project.md)
 
