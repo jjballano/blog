@@ -1,7 +1,7 @@
 # Docker compose
 #####(01/03/2017)
 
-I wrote a post about how to [add postgres to my pet project with docker](postgres_docker.md) but I wasn't so happy with this because make nonsense to run many containers that you could potencially need one by one, and that's why I read about [docker-compose](https://docs.docker.com/compose/). 
+I wrote a post about how to [add postgres to my pet project with docker](postgres_docker.md) but I wasn't happy with the soluction because make nonsense to run a few containers that you could potencially need, one by one. That's why I started to use [docker-compose](https://docs.docker.com/compose/). 
 The idea is just running one thing and have all your environment ready to use and docker-compose make this very easy.
 
 I created a file called docker-compose.yml in the root of my project and added the following configuration:
