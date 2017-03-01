@@ -5,6 +5,7 @@ I will try to write them in English, but some could be in Spanish, depending on 
 
 List of posts:
 
+* [Docker compose + Rails + Postgres](posts/docker_compose_rails_postgres.md)
 * [Docker + Postgres](posts/postgres_docker.md)
 * [Script to create a backup of the database to S3 in a Rails project](posts/script_db_backup.md)
 * [Maratón + nómada = desastre](posts/maraton_fallida.md) (Spanish)
