@@ -22,7 +22,7 @@ volumes:
 
 As you can see, we have a db service with the postgres configuration, very similar to the 'docker run' with had previously.
 
-So know, we need to execute the following in order to have your database up & running:
+So now, we need to execute the following in order to have your database up & running:
 
 ```
 docker-compose up
